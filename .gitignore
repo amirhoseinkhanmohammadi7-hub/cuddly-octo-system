@@ -1,0 +1,80 @@
+```
+# Dependency directories
+vendor/
+node_modules/
+
+# Laravel specific
+bootstrap/cache/
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+storage/logs/
+database/seeds/
+database/factories/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled files
+*.php~
+*.js~
+*.css~
+
+# Build artifacts
+dist/
+build/
+target/
+
+# Python (if any Python components)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg-info/
+.eggs/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+
+# Compression
+*.zip
+*.gz
+*.tar
+*.tgz
+*.bz2
+*.xz
+*.7z
+*.rar
+*.zst
+*.lz4
+*.lzh
+*.cab
+*.arj
+*.rpm
+*.deb
+*.Z
+*.lz
+*.lzo
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
+```
